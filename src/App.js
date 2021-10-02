@@ -7,7 +7,11 @@ const eventsDictionary = {
   "🎿": "Winter Olympics",
   "🎂": "Birthday",
   "🎓": "Graduation",
-  "🎃": "Halloween"
+  "🎃": "Halloween",
+  "🌱": "Earth Day",
+  "🐰": "Easter",
+  "☘️": "St Patrick’s Day",
+  "🪔": "Diwali"
 };
 
 const emojis = Object.keys(eventsDictionary);
